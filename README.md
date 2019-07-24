@@ -1,4 +1,4 @@
-# Metis-Project-3-
+# Metis-Project-3
 
 Create a classification system that models the level of entropy (entropic disposition) in the brain. For simplicity, we will use the simple categories of low, medium and high entropy. We will utilize Robin Carhart-Harris’ model of the entropic brain to find indicators of high and low entropy and attempt to find markers along this scale through both survey question data as well as social media / online markers. (the latter will dip into NLP and project 4).
 
